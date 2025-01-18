@@ -50,3 +50,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 	--headings-line-height: 1.3;
 	--headings-small-line-height: 1.15;
 }
+
+.custom-logo {
+	border-radius: 50%;
+}
